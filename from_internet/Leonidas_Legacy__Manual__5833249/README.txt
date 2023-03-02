@@ -1,0 +1,1 @@
+Leonidas Legacy (Manual) by NoShayminFeeding on Thingiverse: https://www.thingiverse.com/thing:5833249

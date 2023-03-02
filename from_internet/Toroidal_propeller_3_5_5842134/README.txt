@@ -1,0 +1,1 @@
+Toroidal propeller 3.5 by ProMi on Thingiverse: https://www.thingiverse.com/thing:5842134

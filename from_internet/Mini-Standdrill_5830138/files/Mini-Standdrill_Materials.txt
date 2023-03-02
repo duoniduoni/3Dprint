@@ -1,0 +1,55 @@
+Mini-Standdrill - https://www.thingiverse.com/thing:5830140
+===============
+
+Materials:
+----------
+
+PLA:
+- Groundplate.stl
+- Mid-Table-B.stl
+- Mid-Table-T.stl
+- TopTable.stl
+- 2x-Knob.stl
+- 4x-Bushing.stl
+- Stand.stl
+- Handwheel.stl
+- Gear.stl
+- GearRack.stl
+- HolderArm.stl
+- N-Holder.stl
+- Motor-Clamp.stl
+
+TPU:
+- 4x-TPU-Pad.stl
+
+Accessories:
+- 4x (PLA-)Bushings ø5/3.8mm L:5.1mm  \  (PLA-Buchse oder Messing)
+- 2x M3 x 10mm (Counter-Sunk Allen-Key Screw | M3 Senkkopf Inbus-Schraube)
+- 2x M3 x 25mm (Counter-Sunk Allen-Key Screw | M3 Senkkopf Inbus-Schraube)
+- 1x M3 x 30mm (Counter-Sunk Allen-Key Screw | M3 Senkkopf Inbus-Schraube)
+- 1x M3x4 Grub Screw (Madenschraube)
+- 6x M3-Nut    (M3 Mutter)
+- 4x M3-Washer (M3 U-Scheibe)
+- 2x M4-Thread, L:99mm ⇒ cut from M4 thread (M4-Gewindestange)
+- 2x M4-Nut    (M4 Mutter)
+- 2x Bike-Spoke ø2.2mm, L:84mm  ⇒ (2x Fahrrad-Speiche, L-tot.≈310mm)
+- 2x Bike-Spoke ø2.2mm, L:80mm  ⇒ (" " ")
+- 2x Bike-Spoke ø2.2mm, L:110mm ⇒ (" " ")
+- 1x Plywoold 3x84x64mm (3mm Sperrholz oder MDF-Platte)
+- 1x Micro-Drill-Chuck (alt: "Mini-Drill-Chuck") ⇒ see the providedd picture, to choose one with ø6mm neck (alt: ø8mm)!
+- 1x "DC Motor 791" (RC 370): 2-6V/1A - 10000RPM, (Dim.: ø24 x 31mm, L: , Shaft: ø2,1 x 9,5mm)   ⇒ https://www.luedeke-elektronic.de/Elektronik-Module/Mini-Motoren/
+- alt: "DC Motor 390": 12V/1A - 10000 RPM) (Dimensions: ø28 x 37mm, L: 36mm, Shaft: ø2,3 x 11mm) ⇒ https://www.ebay.de/itm/232253187137 (Mabucchi...)
+
+Slicer / Print-Settings for PLA/TPU
+-----------------------------------
+Extruder: 210°C (PLA) / Table: 60°C
+Infill: 30%, "Cubic"
+Layer Height: 0.15mm
+First Layer: 0.20mm
+Perimeters: 3
+Solid Layers: 3
+Speed-PLA: 90mm/s
+Speed-TPU: 60mm/s
+
+Material:
+"Tough PLA" ø1.75mm (Black)
